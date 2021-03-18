@@ -1,0 +1,8 @@
+links kpca:
+
+https://www.geeksforgeeks.org/ml-introduction-to-kernel-pca/
+https://www.face-rec.org/algorithms/Kernel/kernelPCA_scholkopf.pdf
+https://github.com/namanUIUC/NonlinearComponentAnalysis/blob/master/notebooks/main.ipynb
+https://github.com/afiliot/Non-Linear-Dimensionality-Reduction/blob/master/notebook.ipynb
+https://github.com/topics/kernel-pca
+https://www.google.com/search?q=kernel+pca+python&client=firefox-b-d&sxsrf=ALeKk02gYFka7oE2xP3uDpkgHFzLmxNuRQ:1593392272981&ei=kDz5Xvq1O4jn_Qbw8K_QDw&start=10&sa=N&ved=2ahUKEwj6vazj6KXqAhWIc98KHXD4C_oQ8NMDegQIDBA_&biw=1366&bih=636
